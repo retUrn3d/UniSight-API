@@ -1,8 +1,7 @@
 # unisight
+Клиент для API UniSight.
 
-Клиент для HTTP API UniSight.
-
-Токен выпускается в личном кабинете UniSight: `https://app.unisight.ru/profile`. Документация: `https://api.unisight.ru/docs`.
+Токен выпускается в [личном кабинете UniSight](https://app.unisight.ru/profile).
 
 ## Установка
 
